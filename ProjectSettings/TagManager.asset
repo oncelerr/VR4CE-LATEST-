@@ -20,6 +20,10 @@ TagManager:
   - Correct
   - labcoat
   - goggles
+  - flask
+  - sugar
+  - coffee
+  - flask1
   layers:
   - Default
   - TransparentFX
